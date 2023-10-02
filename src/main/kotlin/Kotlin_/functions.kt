@@ -1,3 +1,5 @@
+package Kotlin_
+
 import java.util.*
 
 fun randomDay() : String{

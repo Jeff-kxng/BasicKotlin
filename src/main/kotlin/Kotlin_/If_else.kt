@@ -1,3 +1,5 @@
+package Kotlin_
+
 fun main() {
     println("Compare conditions and booleans")
     val numberOfFish = 50

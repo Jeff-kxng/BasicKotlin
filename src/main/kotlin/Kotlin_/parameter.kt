@@ -1,3 +1,5 @@
+package Kotlin_
+
 fun swim(speed: String = "fast"){
     swim() // use default speed
     swim("slow") // postional argument
